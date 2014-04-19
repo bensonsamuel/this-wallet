@@ -1,0 +1,18 @@
+<?php
+
+
+define("MYSQL_HOSTNAME","localhost");
+define("MYSQL_USERNAME","thiswallet");
+define("MYSQL_PASSWORD","Thiswallet@12#");
+define("MYSQL_DATABASE","thiswallet");
+
+require_once('jsonRPCClient.php');
+require_once 'coinbase-php/lib/Coinbase.php';
+
+$coinbase = Coinbase::withApiKey("7XBZhM4dBbaRM1ol", "XGJsVmUyEMkGkix38a8UuTU1nqn5FWmR");
+$btc_connect = array("user" => "ae647379-2ea1-f54a-a05c-1170cc7b833e","pass" =>   "$@toshI2009", "host" =>   "blockchain.info", "port" =>   80);
+$bitcoin = new jsonRPCClient("http://{$btc_connect['user']}:{$btc_connect['pass']}@{$btc_connect['host']}:{$btc_connect['port']}");
+
+
+
+?>
