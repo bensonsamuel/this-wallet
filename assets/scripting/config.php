@@ -4,7 +4,7 @@
 define("MYSQL_HOSTNAME","localhost");
 define("MYSQL_USERNAME",""); // enter your mysql username
 define("MYSQL_PASSWORD",""); // enter your mysql password
-define("MYSQL_DATABASE","thiswallet");
+define("MYSQL_DATABASE","thiswallet"); // change this if you use a different DB name
 
 require_once('jsonRPCClient.php');
 require_once 'coinbase-php/lib/Coinbase.php';
