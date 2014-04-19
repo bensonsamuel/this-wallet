@@ -27,3 +27,6 @@ Do let me know if there are any parts of the code that does not work/ Needs clar
 Demo is available at coinsecure.in/this-wallet. 
 Live wallets are at use with investbitcoin.in and satoshi-karate.com.
 
+
+Mail me on benson.samuel@gmail.com for any clarifications.
+My BTC address is 19xoVisHumVprrAYK97mzDTZ5UTdQ1qDqN
