@@ -1,3 +1,5 @@
+NOT MAINTAINED
+
 Get Started
 
 1. Upload all files from this-wallet to the webserver.
@@ -21,6 +23,5 @@ Get Started
 4. In order to redirect users to a page, please enter the redirection code in refreshbalance.php
 
 Do let me know if there are any parts of the code that does not work/ Needs clarity. It has been tested across few implements.
-Demo is available at coinsecure.in/this-wallet. 
-Live wallets are at use with investbitcoin.in and satoshi-karate.com.
+
 
